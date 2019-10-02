@@ -3,7 +3,7 @@ Criar Classe Pessoa que receba os atributos(idade, altura e cor_dos_olhos) e
 tenha metodos para retornar(return) estas informações
 ============================================================================="""
 
-
+"""
 # Faça a classe aqui...
 class Pessoa():
     def __init__(self, idade, altura, cor_dos_olhos):
@@ -19,3 +19,13 @@ class Pessoa():
 
     def retorna_olhos(self):
         return self.cor_dos_olhos       
+
+
+nome = input('Qual é o seu nome? ')
+idade = input('Qual a sua idade? ')
+peso = input ('Qual é o seu peso? ')
+
+print(nome, idade, peso)
+"""
+
+19/2
